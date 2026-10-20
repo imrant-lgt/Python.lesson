@@ -11,9 +11,9 @@ Normal text
 
 ~~Deleted text~~
 
-~main page
-~List of content 
-~Filter 
+~main page~
+~List of content~ 
+~Filter~
 
 1. set up dependencies
 2. run the project
