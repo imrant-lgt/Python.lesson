@@ -5,6 +5,6 @@
 
 Normal text 
 
-##Bold tetx##
+**Bold tetx**
 #Cursive text#
 ~~Deleted text~~
