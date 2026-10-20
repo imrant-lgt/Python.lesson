@@ -10,3 +10,11 @@ Normal text
 *Cursive text*
 
 ~~Deleted text~~
+
+~main page
+~List of content 
+~Filter 
+
+1. set up dependencies
+2. run the project
+3. open the page
